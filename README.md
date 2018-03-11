@@ -1,0 +1,2 @@
+# cons
+Conscious CLI app
