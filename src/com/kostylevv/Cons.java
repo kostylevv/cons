@@ -2,7 +2,7 @@ package com.kostylevv;
 
 import java.time.LocalDate;
 
-public class Main {
+public class Cons {
 
     public static void main(String[] args) {
         LocalDate today = LocalDate.now();
